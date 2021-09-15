@@ -1,5 +1,5 @@
 import React from "react"
-import { Grid, Grow, Typography } from "@material-ui/core"
+import { Grid, Grow } from "@material-ui/core"
 import useStyles from "./NewsCardStyles"
 import Banner from "./Banner"
 
